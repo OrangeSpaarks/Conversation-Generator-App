@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Conversation Generator</string>
+    <string name="button">Generate</string>
+    <string name="title">Click to Generate</string>
+</resources>
