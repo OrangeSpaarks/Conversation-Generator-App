@@ -37,6 +37,8 @@ public class MainActivity extends AppCompatActivity {
             Log.wtf("MyApplication", "Error reading data file");
             e.printStackTrace();
         }
+
+        generate(null);
     }
 
     public void generate(View view) {
