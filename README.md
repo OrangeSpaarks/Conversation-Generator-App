@@ -1,1 +1,3 @@
-# Conversation-Generator-App
+# Conversation Starter Generator
+
+Android application
